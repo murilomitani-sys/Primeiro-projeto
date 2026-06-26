@@ -29,5 +29,5 @@ Se precisar de ajuda para rodar algum código dos meus repositórios, entre em c
 
 ---
 
-![](https://media1.tenor.com/m/nRdPbx330fAAAAAC/dev.gif)
 ![](https://media1.tenor.com/m/dxPl_UoR8J0AAAAd/fire-writing.gif)
+![](https://media1.tenor.com/m/nRdPbx330fAAAAAC/dev.gif)
