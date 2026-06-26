@@ -15,4 +15,4 @@
 Qualquer dúvida entre em contato
 <a href="mailto:murilo.mitani@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
-![](https://tenor.com/pt-BR/view/dog-gif-25713443)
+![](https://tenor.com/pt-BR/view/dog-alarm-alert-gif-13887041539004181192)
