@@ -16,3 +16,4 @@ Qualquer dúvida entre em contato
 <a href="mailto:murilo.mitani@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
 ![](https://media1.tenor.com/m/eaM-VYcH2FkAAAAd/orange-cat-dancing.gif)
+![](https://media1.tenor.com/m/dxPl_UoR8J0AAAAd/fire-writing.gif)
